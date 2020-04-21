@@ -8,5 +8,5 @@ end
 
 introduction("Pedro")
 
-introduction_with_language("Pedro", "Ruby")
+introduction_with_language("Peter", "Ruby")
 
